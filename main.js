@@ -36,7 +36,6 @@ ws.onclose = function() {
 };
 var sendCommand = function(command) {
     ws.send(JSON.stringify(command));
-    console.log("cc");
 };
 setTimeout(function() {
     sendCommand(startBuilding);
