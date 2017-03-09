@@ -13,4 +13,3 @@ I had difficulty in understanding what to and how to do and after a while I coul
 Up to some extent I was successful in fixing some of the issues.
 
 I have spent 4 hrs working on this and I think I may need more guidance to work on this code challenge.
-#LiftChallenge
